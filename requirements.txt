@@ -1,0 +1,9 @@
+flask
+flask_sqlalchemy
+flask_marshmallow
+marshmallow-sqlalchemy
+flask-cors
+pytest
+pytest-flask
+factory_boy
+flask-testing
